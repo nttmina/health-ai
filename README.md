@@ -1,4 +1,4 @@
-# health-ai
+# health-ai - Maggiore Modern Healthcare Technologies
 Python-mic-audio-speaker integration to support healthcare industry helping disabilities
 
 - disease finder with OpenCV
